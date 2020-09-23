@@ -20,7 +20,7 @@ Upon completion of this lesson, students will be able to
 - give examples of what a person might see on a website page that would support accuracy of information on the website,
 - develop a set of criteria related to accuracy to add to their rubrics, and
 - apply the rubric to different sets of information and explain their scoring.
- 
+
 ## In Advance
 
 ***Estimated time for the lesson:*** 2–3 45-minute class periods
