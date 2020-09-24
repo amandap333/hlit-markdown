@@ -11,4 +11,4 @@ To conclude, return to the CBD websites you looked at in the first lesson.
 
 ### <div align="center">[CBD site 1]()&nbsp;&nbsp;&nbsp;[CBD site 2]()&nbsp;&nbsp;&nbsp;[CBD site 3]()</div>
 
-**needs links still
+<!-- **needs links still -->

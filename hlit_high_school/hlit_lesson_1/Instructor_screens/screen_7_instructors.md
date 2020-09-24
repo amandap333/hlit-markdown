@@ -3,7 +3,11 @@
 Now that students have finished coding the features of each website, hold a class discussion to talk about the statements they wrote to complete this category of the rubric. If helpful, you can project a copy of the rubric during the discussion.
 
 ### <div align="center">[Rubric]()</div>
-***needs link
+<!--
+needs link
+!!!!!
+*****
+ -->
 
 
 Students should write statements that correspond to websites including dates, websites having functional links, and websites including contact information. Encourage students to write statements that can be answered either yes or no.

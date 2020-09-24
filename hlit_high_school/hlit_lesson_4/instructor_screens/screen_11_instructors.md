@@ -1,0 +1,3 @@
+# Step Eleven
+
+A goal for these lessons is for students to be able to find information about health issues. In addition to the FDA, the FTC can be another valuable source of information for consumers who are concerned about the quality of a product or the claims being made about a health-related product. The FTC acts when a manufacturer makes unsubstantiated claims in their advertisements or marketing materials. 

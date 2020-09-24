@@ -7,4 +7,4 @@ As you read, think about how different aspects of clinical trials relate to your
 Your teacher will tell you which option to choose to learn about clinical trials. 
 
 ### <div align="center">[Option 1]()&nbsp;&nbsp;&nbsp;[Option 2]()&nbsp;&nbsp;&nbsp;[Option 3]()</div>
-****needs links
+<!-- ****needs links -->

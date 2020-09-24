@@ -7,4 +7,4 @@ Open the rubric you have been working on. You will now work on the category “L
 Work with your teammates to add statements to your rubric that relate to what you have learned in this lesson. 
 
 ## <div align="center">[HINT]()</div>
-***NEEDS LINK!!!!
+<!-- ***NEEDS LINK!!!! -->

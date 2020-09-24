@@ -13,7 +13,7 @@ Click on each type of website to learn about the main reason for the accuracy ra
 | [Personal  Blog]()  |         low      |
 | [Product  Review]() |        low       |
 
-**needs links tto sites
+<!-- **needs links tto sites -->
 
 
 Other studies have found similar issues with the accuracy of information on the internet. Health professionals are concerned because many people do not realize that much of the health information on the internet is inaccurate or incomplete when making health decisions.

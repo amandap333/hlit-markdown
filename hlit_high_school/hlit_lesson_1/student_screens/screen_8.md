@@ -6,6 +6,8 @@ If you want to look at them again, click the buttons below.
 
 
 ### <div align="center">[website 1]()&nbsp;&nbsp;&nbsp;[website 2]()&nbsp;&nbsp;&nbsp;[website 3]()</div>
+<!--
 ****needs links
+ -->
 
 Remember, you are just thinking about the Website Quality Initial Screen category of the rubric. For each website, you will have 1 score for this section of your rubric.

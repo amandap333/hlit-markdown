@@ -12,7 +12,9 @@ You will need 3 copies of the rubric—one for each of the CBD websites. If you 
 ### <div align="center">[RUBRIC]()</div>
 ### <div align="center">[CBD Website1]()&nbsp;&nbsp;&nbsp;[CBD Website2]()&nbsp;&nbsp;&nbsp;[CBD Website3]()</div>
 
-**needs links
+<!-- **needs
+links
+-->
 
 Keep the following ideas in mind:
 - Your scores do not need to match those of your teammates. The important part is that you can give a reason for your score.

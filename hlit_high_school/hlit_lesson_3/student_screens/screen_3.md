@@ -10,4 +10,4 @@ Click on the link below to see an ad for the lemonade diet cleanse.
 Record your answers to these questions in your science notebook.
 
 ### <div align="center">[Lemonade diet cleanse website]()</div>
-***needs link!!!
+<!-- ***needs link!!! -->

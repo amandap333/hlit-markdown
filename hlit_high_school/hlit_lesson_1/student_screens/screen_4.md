@@ -8,6 +8,6 @@ Click on the link below to get a copy of the rubric. Read over the criteria list
 
 ### <div align="center">[Rubric]()</div>
 
-**needs tto link
+<!-- **needs tto link
 **to the
-**rubric sheet
+**rubric sheet -->

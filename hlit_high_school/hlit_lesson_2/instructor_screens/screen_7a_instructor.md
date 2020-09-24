@@ -17,8 +17,10 @@ Inform students that scientists have continued to assess the paper that was publ
 If you wish, share the reading *Problems with the Green Coffee Bean Extract Study* with students, which identifies specifically some of the problems with the study that led to its retraction. This may also help confirm some of the questions that students had when they read about the study.
 
 ## <div align="center">[Problems with the Green Coffee Bean Extract Study]()</div>
-**needs link
-**needs link
+<!-- **needs
+ link
+**needs
+ link -->
 
 If students question how they would really be able to tell whether a study was done well or not, you can confirm that this is a difficult issue. One thing people can do is look at the ClinicalTrials.gov website. Most people do not have time to search all the medical literature for answers. References provided on a product’s website can also be checked (searched online) to see if there are any updates related to that product. Also, they can ask a health professional (doctor, nurse, pharmacist) for information. But perhaps one thing that everyone can do is develop a level of skepticism and be willing to raise questions. Have students heard the old expression, "Don’t believe everything you see (or hear)?" Do they understand how it might apply in this situation? 
 

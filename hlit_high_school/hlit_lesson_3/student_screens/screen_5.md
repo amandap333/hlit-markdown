@@ -20,4 +20,4 @@ Draw a table in your science notebook like the one below to record your ideas. A
 When you are done, your teacher will lead a class discussion so you can share some of your ideas with the class.
 
 ### <div align="center">[Lemonade diet cleanse website]()</div>
-***needs link!!!
+<!-- ***needs link!!! -->

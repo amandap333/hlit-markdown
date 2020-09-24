@@ -14,4 +14,6 @@ If students are having trouble understanding the results of the studies, have th
 
 #### <div align="center">[Sample answers to Evaluating the Clinical Trials]()</div>
 
-**needs links
+<!-- **
+needs
+links -->
