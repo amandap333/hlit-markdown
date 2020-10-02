@@ -1,0 +1,5 @@
+# Step Five
+
+If your students have used rubrics previously, they may be comfortable with them. If this is new to them, they should understand that the rubric is simply a way to help them keep track of the evidence.  
+
+**NOTE TO TEACHERS:** At various points in this module, students will be evaluating different websites. The websites in this lesson (and the green coffee bean extract website in Lesson 2 and the lemonade diet cleanse website in Lesson 3) are fake for purposes of the lessons. This approach was used because (1) a specially designed website ensures the educational purpose for the site is accommodated; (2) websites are often taken down or have their address changed, which would make them inaccessible; and (3) website material is copyrighted. Students do not need to know these sites are fictional. If they ask, you can assure them that the information is a compilation from actual websites.
