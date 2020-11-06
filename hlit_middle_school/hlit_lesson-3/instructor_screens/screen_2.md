@@ -1,0 +1,5 @@
+# Screen 2
+
+Have students work in teams of 3-4 for this step. Assign each team a number from 1 to 6. Teams will read about strategies used by advertisers to persuade people to buy products or services or to donate to a cause. After reading the information, teams will develop a role-play to present to the class. The role-play should demonstrate the persuasion technique (rather than a mini lecture about the topic). Students can use the example provided or they can write their own role-play. As students perform their role-plays, encourage other teams to try to guess the persuasion strategy being depicted. 
+
+Learning the names of the persuasion strategies is not important. It is more important that students recognize that ads are designed to influence their thoughts and behaviors. Students may question whether persuasion strategies are always a negative thing. This could be a good point of discussion. The strategies can be helpful for marketers while also presenting good information for consumers. It depends on how the strategies are used. 
