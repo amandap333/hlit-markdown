@@ -1,4 +1,4 @@
-# Screen 4
+# Step 4
 
 People take a medicine because they want it to help them. In other words, they want a **benefit** from taking the medicine. 
 

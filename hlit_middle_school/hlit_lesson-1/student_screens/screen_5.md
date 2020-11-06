@@ -1,4 +1,4 @@
-# Screen 5
+# Step 5
 
 The first category of the rubric includes 8 statements in the "Criteria" column. How do these statements help you judge a website? 
 

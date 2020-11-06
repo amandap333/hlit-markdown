@@ -1,4 +1,4 @@
-# Screen 10
+# Step 10
 
 **Optional Wrap-Up Discussion Questions**
 

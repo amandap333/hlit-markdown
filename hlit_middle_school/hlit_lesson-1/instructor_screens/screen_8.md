@@ -1,4 +1,4 @@
-# Screen 8
+# Step 8
 
 Allow 5-10 minutes for students to assign scores on their rubrics and to discuss their scores with their teammates. The scoring guidelines are at the end of the rubric.
 

@@ -1,4 +1,4 @@
-# Screen 11
+# Step 11
 
 This step is optional. Instruct your students to either do this step or to skip it. Alternatively, you can inform students about what the FTC does and display one of the examples to show to the class. They may find it interesting to see an example of what the FTC responds to. 
 

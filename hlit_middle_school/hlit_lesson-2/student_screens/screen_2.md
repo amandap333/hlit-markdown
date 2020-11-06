@@ -1,4 +1,4 @@
-# Screen 2
+# Step 2
 
 In a recent study, investigators searched the web to find answers to health questions. They wanted to find out if health information on websites is accurate.* They looked at 1,300 websites.
 

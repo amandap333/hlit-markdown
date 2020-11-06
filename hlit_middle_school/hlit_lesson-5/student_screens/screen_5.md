@@ -1,4 +1,4 @@
-# Screen 5
+# Step 5
 
 Trade one of the health-related item that you chose with the one your teammate chose. Also share the question you asked so your teammate will use that same question.
 

@@ -6,4 +6,4 @@ Think about the following questions and discuss them with your teammates.
 - Can people who write these commercials (or ads) say anything they want?
 - Why would commercials include information about what could go wrong if someone takes it?
 
-Be ready to participate in a class discussion. 
+Be ready to participate in a class discussion.

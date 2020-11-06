@@ -1,4 +1,4 @@
-# Screen 7
+# Step 7
 
 In this step, students are introduced to the idea that accessing, evaluating, and understanding information is a central part of health literacy, science literacy, and media literacy. As another way to help students understand the relevance of this module to their lives, you could share some information about health literacy with students. Click on the following link to access information that you can project for and discuss with students.  
 

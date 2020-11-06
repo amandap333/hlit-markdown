@@ -1,4 +1,4 @@
-# Screen 6
+# Step 6
 
 Work with your teammates to look at 3 different websites to see if they meet the criteria on the rubric. At this point, you do not need to read all the information on the websites. Instead, look for whether the features are present or not. 
 

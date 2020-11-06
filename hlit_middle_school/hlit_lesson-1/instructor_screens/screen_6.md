@@ -1,4 +1,4 @@
-# Screen 6
+# Step 6
 
 Have students work in teams of 3. (You may need one team of 2 or 4 depending on the number of students in your class.) If each student has a computer, each member of the team can choose 1 of the websites to examine. After each student finishes his or her website evaluation, the team can discuss and compare all three sites. If students are working in teams at one computer, they can go through all 3 of the websites together. In this case, each team member can take the lead on one copy of the rubric (for 1 site). 
 

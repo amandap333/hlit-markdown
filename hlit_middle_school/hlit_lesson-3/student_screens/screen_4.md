@@ -1,4 +1,4 @@
-# Screen 4
+# Step 4
 
 It can be hard to tell from an ad whether the information is accurate or if the persuasion strategies are potentially misleading. 
 

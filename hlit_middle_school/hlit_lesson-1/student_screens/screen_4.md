@@ -1,4 +1,4 @@
-# Screen 4
+# Step 4
 
 During the lessons in this module, your task will be to develop a rubric that people can use to evaluate websites and the information presented on them. 
 

@@ -1,4 +1,4 @@
-# Screen 1
+# Step 1
 
 Work in a team of 2-3 students for this step. 
 

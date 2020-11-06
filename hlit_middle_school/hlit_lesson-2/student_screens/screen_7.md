@@ -1,4 +1,4 @@
-# Screen 7
+# Step 7
 
 Now that you are familiar with both clinical trials, think about why one trial might be a better experiment than the other. 
 

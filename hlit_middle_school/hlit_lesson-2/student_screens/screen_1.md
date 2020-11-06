@@ -1,4 +1,4 @@
-# Screen 1
+# Step 1
 
 Suppose you do in internet search that results in a lot of hits. Can you trust the information found on the sites? Researchers have investigated this question. What do you think they found? Give your opinion by voting on the following question.  
 

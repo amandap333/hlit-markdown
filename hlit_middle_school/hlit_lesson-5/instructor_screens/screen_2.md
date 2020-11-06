@@ -1,4 +1,4 @@
-# Screen 2
+# Step 2
 
 Ask students to get out the information item that they found. Students should record their question and source in their science notebook. If students choose a printed piece, they could tape or staple it into their notebook. If the source is from the internet, they can write down the URL so they can return to it easily. 
 

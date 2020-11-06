@@ -3,6 +3,7 @@
 Now that students have finished coding the features of each website, hold a class discussion to talk about the statements they wrote to complete this category of the rubric. If helpful, you can project a copy of the rubric during the discussion.
 
 ### <div align="center">[Rubric]()</div>
+
 <!--
 needs link
 !!!!!

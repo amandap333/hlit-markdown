@@ -1,4 +1,4 @@
-# Screen 5a
+# Step 5a
 
 **Learn about Clinical Studies**
 When you click the link to the reading, you will see information on the National Institutes of Health (NIH) website. The NIH is the nation's medical research agency.

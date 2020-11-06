@@ -1,4 +1,4 @@
-# Screen 7
+# Step 7
 
 In this lesson, you have learned some ways that marketers try to persuade people to buy or use products or to believe in their causes. You have also practiced your critical thinking skills to analyze information. 
 

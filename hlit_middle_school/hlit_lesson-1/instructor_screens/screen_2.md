@@ -1,4 +1,4 @@
-# Screen 2
+# Step 2
 
 Have students work in teams of 3 to look at 3 websites that focus on CBD. Students should be able to scan these websites in about 5 minutes (or less) and should not spend time reading all the text on these sites. The goal of this step is for students to think about how they currently judge a website that they see and give their first impressions about the quality of a site. After they have a chance to complete this step, hold a brief class discussion to draw out student ideas. 
 

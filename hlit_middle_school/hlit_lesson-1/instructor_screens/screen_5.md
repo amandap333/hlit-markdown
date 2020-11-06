@@ -1,4 +1,4 @@
-# Screen 5
+# Step 5
 
 If your students have used rubrics previously, they may be comfortable with them. If this is new to them, they should understand that the rubric is simply a way to help them keep track of the evidence. 
 

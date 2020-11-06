@@ -1,4 +1,4 @@
-# Screen 6a
+# Step 6a
 
 **Green Coffee Bean Extract Study**
 

@@ -1,4 +1,4 @@
-# Screen 3
+# Step 3
 
 Make sure you have a copy of your rubric to use for analyzing your chosen media item. Use your rubric to score the information in your chosen item. Make sure you can give reasons for assigning your scores for each category. 
 

@@ -1,4 +1,4 @@
-# Screen 8
+# Step 8
 
 Have students retrieve the copies of the rubrics that they started using in Lesson 1The goal is for students to develop their own rubric and to start making decisions about what is important to include. The rubric lists two criteria for the Lesson 2 category to help students get started.
 

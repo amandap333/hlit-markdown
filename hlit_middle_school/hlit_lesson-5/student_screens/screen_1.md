@@ -1,4 +1,4 @@
-# Screen 1
+# Step 1
 
 When you started this unit, you were given the challenge of developing a rubric that could help other people evaluate health-related information. Before you give it to someone else, you should test it out.
 

@@ -1,4 +1,4 @@
-# Screen 5
+# Step 5
 
 The goal is to help students see that an ad for a prescription medication cannot be slanted to focus only on benefits (this will come out later in the lesson). Click to see a sample analysis of benefits and risks from the commercial. 
 

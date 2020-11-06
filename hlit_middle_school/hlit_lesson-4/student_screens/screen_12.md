@@ -1,4 +1,4 @@
-# Screen 12
+# Step 12
 
 In this lesson, you have learned about prescription drugs, OTC drugs, and dietary supplements. 
 

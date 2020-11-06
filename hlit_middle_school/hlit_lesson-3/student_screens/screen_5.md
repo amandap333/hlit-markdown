@@ -1,4 +1,4 @@
-# Screen 5
+# Step 5
 
 Sometimes you have to sort through a lot of information to separate the helpful and relevant information from the rest. Take another look at the lemonade diet cleanse website. 
 

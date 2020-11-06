@@ -1,4 +1,4 @@
-# Screen 6
+# Step 6
 
 Now that you have read about clinical trials and reviewed aspects of good experimental design, you will look at two real clinical trials.
 

@@ -4,13 +4,13 @@
 
 ## <div align="center">[Green coffee bean extract website]()</div>
 
-**needs link  
+<!-- **needs link   -->
 
 Inform students that scientists have continued to assess the paper that was published about the green coffee bean extract study. The scientists have found enough problems with the study that the authors have now retracted the paper. A paper is retracted when there are serious problems such as scientific misconduct, plagiarism, pervasive errors, or unsubstantiated data. If you wish, you can display the paper with a "RETRACTED" mark on it. You can explain that retraction is another way that scientists work to make sure results of studies are accurate. Click below to display the paper. 
 
 ## <div align="center">[Retracted paper]()</div>
 
-**needs link
+<!-- **needs link -->
 
 *The green coffee bean extract study was included in this lesson because it sometimes is more striking to point out what is bad than what is good (and probably more fun for students). However, only a small percentage of scientific papers are retracted each year (approximately four of every 10,000 papers). Some studies speculate that the number of retractions is increasing because papers are under more intense scrutiny now than they have been in the past.*  
 
@@ -28,4 +28,4 @@ If you would like more information about the green coffee bean extract and the c
 
 
 ## <div align="center">[Green Coffee Bean Extract in the Media]()</div>
-**needs link
+<!-- **needs link -->

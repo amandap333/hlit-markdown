@@ -1,4 +1,4 @@
-# Screen 10
+# Step 10
 
 What can people do if they have concerns about an OTC medication or a dietary supplement? They can contact the FDA or another agency, the Federal Trade Commission (FTC). 
 

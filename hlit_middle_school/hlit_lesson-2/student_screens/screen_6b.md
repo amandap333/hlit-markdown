@@ -1,4 +1,4 @@
-# Screen 6b
+# Step 6b
 
 **Diabetes Prevention Program (DPP) Study**
 

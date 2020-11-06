@@ -1,3 +1,3 @@
-# Screen 1
+# Step 1
 
 Students begin this lesson working in teams of 3-4 to brainstorm a list of things they would tell people about a new product they have created. This should be a general list including things such as telling about how good the product is, how it can help most people, and so forth. This should take only a few minutes (5 minutes or less) before students share ideas with the class. The discussion should be fast-paced. It is likely that students' lists will include only the positive aspects of their product (which will set them up for a later step). Do not challenge or try to supplement their lists at this time. 

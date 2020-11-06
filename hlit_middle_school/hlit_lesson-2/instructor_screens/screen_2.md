@@ -1,4 +1,4 @@
-# Screen 2
+# Step 2
 
 In this step, students review the results of a study about accuracy of information on the internet. After students have seen the results, ask them if they are surprised by any of the data.
 

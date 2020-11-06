@@ -1,4 +1,4 @@
-# Screen 3
+# Step 3
 
 Work in a team of 2-3 students for this step. In your notebook, create a table with two columns labeled with these headings:
 

@@ -1,4 +1,4 @@
-# Screen 7
+# Step 7
 
 Hold a class discussion to debrief the comparison of the two studies. Students should recognize that the DPP is the stronger and more rigorous study. They are also likely to be somewhat frustrated that they cannot find answers to all the questions on the handout, but this can be a clue as to which is a stronger study.
 

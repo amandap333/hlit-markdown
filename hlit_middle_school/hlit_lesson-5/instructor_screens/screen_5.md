@@ -1,4 +1,4 @@
-# Screen 5
+# Step 5
 
 5. Remind students that, starting in Lesson 1, their challenge was to develop a rubric that they could share with other people to help them learn how to analyze information. Explain that it is important to test their rubrics to meet this goal. 
 

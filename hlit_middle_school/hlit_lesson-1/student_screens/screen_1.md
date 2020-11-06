@@ -1,4 +1,4 @@
-# Screen 1
+# Step 1
 
 The internet can be a great source of information when you want to learn about new topics. 
 

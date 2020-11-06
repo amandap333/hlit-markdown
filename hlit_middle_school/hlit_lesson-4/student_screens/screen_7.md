@@ -1,4 +1,4 @@
-# Screen 7
+# Step 7
 
 As you have seen, companies need to follow specific rules when they write their ads for a prescription medication. The FDA does more than just say what can be in an ad for a prescription medication.
 

@@ -1,4 +1,4 @@
-# Screen 9
+# Step 9
 
 There is another type of product sold in stores. These are called supplements. Supplements are defined as products taken by mouth that contain a "dietary ingredient." Dietary ingredients are things like vitamins, minerals, herbs, and plant products. Supplements can come in many forms, such as pills, tablets, capsules, powders, energy bars, or liquids. Supplements are sold in stores and through the internet. 
 

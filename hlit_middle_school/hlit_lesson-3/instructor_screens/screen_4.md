@@ -1,4 +1,4 @@
-# Screen 4
+# Step 4
 
 Students are provided a definition of _critical thinking_ and some questions that are indicative of critical thinking. A misconception is that critical thinking is being critical of others or being argumentative. If students mention this, help clarify that being critical is about finding evidence to support decision making. Critical thinking is an open-minded effort to answer a question or test a hypothesis by combining good evidence with good ideas. People who exhibit good critical thinking skills generally
 

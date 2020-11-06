@@ -1,4 +1,4 @@
-# Screen 7
+# Step 7
 
 During the course of these lessons, you have learned and practiced skills related to analyzing health-related information you find online and in other types of media.
 

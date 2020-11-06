@@ -1,4 +1,4 @@
-# Screen 9
+# Step 9
 
 In this step, students use their rubrics to reexamine the 3 CBD sites they evaluated in Lesson 1. (In Lesson 1, they evaluated web features. Now they will evaluate the accuracy of information on the sites using their newly expanded rubric.)
 

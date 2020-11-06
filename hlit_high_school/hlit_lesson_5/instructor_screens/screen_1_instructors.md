@@ -2,7 +2,7 @@
 
 Introduce students to this lesson by informing them that they will be making any final changes or additions to their rubric before testing it out on new information. Give them 5–10 minutes to review the CBD websites using their rubrics and to make any desired changes to either the rubric or their scores. After students complete this review, discuss the following questions with the class:
 - How do your scores compare with your ideas when you first looked at these sites in Lesson 1?
-- Based on the information in these websites, do you feel that you are better able to answer the original question about CBD, “Would medical professionals think CBD is a good way for people to deal with long-term pain?” Why or why not? 
+- Based on the information in these websites, do you feel that you are better able to answer the original question about CBD, “Would medical professionals think CBD is a good way for people to deal with long-term pain?” Why or why not?
 
 You could also ask students whether they feel any of the websites really give them enough information to be truly comfortable answering the question. Students are likely to have noticed inconsistencies among the three CBD websites. None of the websites is well documented which could reasonably lead students to having doubts about the information. You could emphasize the fact that there is currently only one approved use for CBD (relating to a rare form of epilepsy). None of the more commonly advertised uses of CBD is well substantiated scientifically. 
 

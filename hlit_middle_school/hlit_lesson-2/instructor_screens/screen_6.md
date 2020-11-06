@@ -1,4 +1,4 @@
-# Screen 6
+# Step 6
 
 Have students work in teams of 2-3 for this part of the lesson.
 a) Give each student a copy of the handout, _Evaluating the Clinical Trials_. 

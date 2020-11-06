@@ -1,4 +1,4 @@
-# Screen 10
+# Step 10
 
 Your teacher will wrap up this lesson with a class discussion. Take a few minutes to think about how you would answer questions that will be part of that discussion. Share ideas with your teammates. 
 

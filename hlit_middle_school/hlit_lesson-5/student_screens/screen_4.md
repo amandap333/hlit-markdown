@@ -1,4 +1,4 @@
-# Screen 4
+# Step 4
 
 Were you able to answer your question? How satisfied are you with the answers you found? Are there still things you would like to find out before you are comfortable answering your original question? 
 

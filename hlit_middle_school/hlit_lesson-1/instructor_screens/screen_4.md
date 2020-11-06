@@ -1,4 +1,4 @@
-# Screen 4
+# Step 4
 
 In the lessons in this module, students will use a rubric. The rubric is a way to help students focus on evidence as a basis for making decisions. In this lesson, students are given the criteria for evaluating website features. In later lessons, students will be developing the criteria for their rubrics. 
 

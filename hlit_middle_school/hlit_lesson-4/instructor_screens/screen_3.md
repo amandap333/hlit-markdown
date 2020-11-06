@@ -1,3 +1,3 @@
-# Screen 3
+# Step 3
 
 Students compare their ideas from watching the commercials with their ideas about what they would do when advertising their own product. Many students would not have included anything negative in what they listed for their own product (in step 1). They also consider questions about whether advertisers can say anything they want about their products and why advertisers would include possible negative effects. Ask students to share their ideas in a brief class discussion of these questions.

@@ -1,4 +1,4 @@
-# Screen 0
+# Step 0
 
 **Teacher only screen:** Before students log onto the computer, have a quick class discussion about the question, "Why do people put health information on the internet?" 
 

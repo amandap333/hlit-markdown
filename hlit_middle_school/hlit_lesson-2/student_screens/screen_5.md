@@ -1,4 +1,4 @@
-# Screen 5
+# Step 5
 
 Later in this lesson, you will analyze information from two clinical trials. Before doing that, however, it will be helpful to learn more about the purpose of clinical trials and how they are carried out. 
 

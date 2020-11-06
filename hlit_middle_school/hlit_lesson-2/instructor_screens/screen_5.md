@@ -1,4 +1,4 @@
-# Screen 5
+# Step 5
 
 The reading about clinical trials will help prepare students for analyzing real clinical trials later in the lesson. Students should see some similarities (and some differences) between their list about experimental design and clinical trials. 
 

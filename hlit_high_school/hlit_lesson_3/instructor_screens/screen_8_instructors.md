@@ -11,5 +11,5 @@ If time is running short, you can have students skip this step and score this se
 ## Optional Homework Assignment
 Instruct students to use the internet to find websites that illustrate one or more of the persuasion strategies discussed in this lesson
 
-### Preparation for Lesson 5
+**_Preparation_** for Lesson 5
 In Lesson 5, students will use their rubrics to evaluate health-related information of their own choosing. They can find information on the internet, TV, social media, magazines, newspapers, or other sources. Depending on your schedule, this may be a good time for you to assign students the task of thinking of a health-related question based on their own interest and finding one or more resources (websites or other media pieces) to answer their question.

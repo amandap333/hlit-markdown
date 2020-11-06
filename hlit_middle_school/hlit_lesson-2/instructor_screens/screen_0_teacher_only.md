@@ -1,4 +1,4 @@
-# Screen 0 (teacher only)
+# Step 0 (teacher only)
 
 **Teacher only screen:** Before, instructing students to log on and start the lesson on the website, remind them of what they did in Lesson 1. Lead a brief discussion that includes guiding questions such as these:
 - In Lesson 1, you considered features of websites that helped you make quick judgments as to their quality. But can you really know whether a website is good just by scanning those features? 

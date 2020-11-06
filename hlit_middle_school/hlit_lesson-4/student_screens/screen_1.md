@@ -1,4 +1,4 @@
-# Screen 1
+# Step 1
 
 Imagine that you have just created a new product that helps people's health or well-being. With 2-3 other class members, create a list of the types of things that you would tell people about your product so you could sell a lot of it. Keep your list of ideas in your science notebook.
 

@@ -1,4 +1,4 @@
-# Screen 13
+# Step 13
 
 To continue learning about risks and benefits, students will read about a case from a _Scientific American_ article. You can choose which option is appropriate for your students (the original article, the original article with highlighting capability, or a simplified reading). The main thing that students should look for are the types of risks involved. 
 

@@ -1,4 +1,4 @@
-# Screen 3
+# Step 3
 
 How does the type of information in these ads compare with the type of information you would include with the product you wanted to sell (at the beginning of this lesson)? 
 

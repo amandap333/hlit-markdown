@@ -1,4 +1,4 @@
-# Screen 4
+# Step 4
 
 The green coffee bean extract website mentioned a "clinical trial." A **clinical trial** is a type of scientific experiment that involves human participants. 
 

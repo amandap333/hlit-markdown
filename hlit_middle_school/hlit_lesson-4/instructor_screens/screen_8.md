@@ -1,4 +1,4 @@
-# Screen 8
+# Step 8
 
 There are fewer regulations for selling OTC medications, with less involvement of the FDA. This is somewhat similar to how rules for an OTC product commercial are less strict than for prescription medication commercials. This does _not_ mean that OTC medications are not regulated at all. An OTC medication has to follow guidelines set for the type of product. 
 

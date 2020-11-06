@@ -1,4 +1,4 @@
-# Screen 4
+# Step 4
 
 After students have scored their information piece, encourage them to reflect on what they have learned using the rubric. Does their opinion about the quality of the resource change after they have scored it using their rubric? Do they feel better prepared to answer the question that they wrote? 
 

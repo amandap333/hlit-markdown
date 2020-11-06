@@ -2,7 +2,7 @@
 
 People take a medicine because they want it to help them. In other words, they want a **benefit** from taking the medicine.
 
-There is usually some chance that the medicine either will not help someone or could even cause side effects. Side effects are problems caused by the drug. These unwanted results are risks for the medicine. You can define **risk** as the chance that something unwanted will happen. 
+There is usually some chance that the medicine either will not help someone or could even cause side effects. Side effects are problems caused by the drug. These unwanted results are risks for the medicine. You can define **risk** as the chance that something unwanted will happen.
 
 It is important to remember that risk is just a higher chance of something happening. It does not mean that anyone who takes this medicine will have these problems.
 

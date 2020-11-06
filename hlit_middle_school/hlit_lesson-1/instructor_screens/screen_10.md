@@ -1,4 +1,4 @@
-# Screen 10
+# Step 10
 
  For the questions on this screen, you can choose whether to have student teams answer all the questions or you can assign a specific question to different teams. Then hold a whole-class discussion to allow students to share their ideas with the class. Also allow time in the discussion too answer any questions that students may have about the rubric or why a quick survey of the presence or absence of specific web features can be helpful. 
 

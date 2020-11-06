@@ -1,4 +1,4 @@
-# Screen 7
+# Step 7
 
 Now that you have evaluated the different websites, be prepared to discuss or ask questions about the criteria on the rubric. 
 

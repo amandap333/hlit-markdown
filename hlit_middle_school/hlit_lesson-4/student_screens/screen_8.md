@@ -1,4 +1,4 @@
-# Screen 8
+# Step 8
 
 You have probably gone into a drugstore or grocery store and have seen things like cold medicines or pain relievers that you can buy without a prescription. These are called over-the-counter (OTC) medications.  
 

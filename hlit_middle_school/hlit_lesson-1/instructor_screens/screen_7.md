@@ -1,4 +1,4 @@
-# Screen 7
+# Step 7
 
 Now that students have finished coding the features of each website, hold a class discussion to talk about or ask questions about the criteria on the rubric. If helpful, project a copy of the rubric during the discussion. 
 

@@ -1,4 +1,4 @@
-# Screen 5
+# Step 5
 
 Students practice their critical thinking skills by analyzing information in the lemonade diet cleanse website. After students have time to complete their analysis, hold a class discussion so students can share their ideas and thinking. 
 

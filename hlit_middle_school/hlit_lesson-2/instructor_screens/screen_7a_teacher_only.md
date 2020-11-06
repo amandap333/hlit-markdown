@@ -1,4 +1,4 @@
-# Screen 7a (teacher only)
+# Step 7a (teacher only)
 
 **Teacher only screen:** Show the green coffee bean extract study website to students again. Ask them to raise their hand if they wrote that seeing the words "clinical study" or "clinical trial" on the website is something that indicated accuracy (Step 3). Ask if they would react differently to those words now.
 

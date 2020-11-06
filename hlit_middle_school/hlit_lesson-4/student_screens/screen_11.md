@@ -1,4 +1,4 @@
-# Screen 11
+# Step 11
 
 This screen is optional. Your teacher will tell you whether to do this or to skip to the next screen. 
 

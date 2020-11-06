@@ -1,3 +1,3 @@
-# Screen 9
+# Step 9
 
 Dietary supplements are another class of product. Students may be surprised to learn that these products are not regulated by the FDA before they go on the market. A common misconception is that products that are "natural," such as herbal remedies, are always safe. There have been cases where a natural product can cause problems such as bleeding or interfering with anesthesia during surgeries. It can also be a problem knowing the quantity of the ingredient. There have been cases in which none of the named ingredient can be present in the supplement. The quality of the ingredients can also be variable. (This has been found to be the case with some CBD supplements.) People should discuss the use of dietary supplements with their health care professional.

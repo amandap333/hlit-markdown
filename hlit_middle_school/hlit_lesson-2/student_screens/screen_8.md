@@ -1,4 +1,4 @@
-# Screen 8
+# Step 8
 
 In Lesson 1, you used a rubric to evaluate information about website features. Now, you will continue working with the rubric. 
 

@@ -1,4 +1,4 @@
-# Screen 4
+# Step 4
 
 To help students understand clinical trials in the upcoming steps, students think about what they know about experimental design. After students (working with a partner) have a few minutes to write some of their ideas about what is important when designing an experiment, hold a class discussion. As students share their ideas, record them on the board. Student responses may include 
 - asking a question that is testable,

@@ -1,4 +1,4 @@
-# Screen 8
+# Step 8
 
 Students now use their rubric to score the CBD websites according to the persuasion and relevance criteria. This should only take a few minutes. 
 

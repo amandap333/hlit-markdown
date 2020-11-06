@@ -1,4 +1,4 @@
-# Screen 1
+# Step 1
 
 Introduce students to this lesson by informing them that they will be making any final changes or additions to their rubric before testing it out on new information. Give them 5-10 minutes to review the CBD websites using their rubrics and to make any desired changes to either the rubric or their scores. After students complete this review, discuss the following questions with the class:
 

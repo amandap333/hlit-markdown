@@ -1,4 +1,4 @@
-# Screen 14
+# Step 14
 
 This lesson focused on thinking about risks and benefits when making decisions about health issues. 
 

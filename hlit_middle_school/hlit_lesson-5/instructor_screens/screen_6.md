@@ -1,4 +1,4 @@
-# Screen 6
+# Step 6
 
 Give students a few minutes to record ideas in their notebook about how and why someone could use the rubric. Then hold a class discussion to allow students to share their ideas. 
 

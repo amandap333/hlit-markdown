@@ -7,6 +7,6 @@ Use your rubric to evaluate your classmate’s information item and question. Wh
 Discuss your outcomes with your classmate. 
 - How similar or different were your scores from those of your classmate? It does not matter if your scores match, but you should each be able to explain why you gave your score.
 - If your scores are different, does that mean that someone is right and the other person is wrong? Explain your answer.
-- What were the strengths or weaknesses of the information source? 
+- What were the strengths or weaknesses of the information source?
 
 If you wish, you can make more changes to your rubric if you think of new criteria that would be helpful. 

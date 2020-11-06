@@ -1,4 +1,4 @@
-# Screen 3
+# Step 3
 
 People may spend a lot of time looking at websites. Often, information on one website is very different from information on another website. After looking at a site, have you ever felt like you wasted your time because you did not find what you were looking for? Have you spent a long time looking at a site before figuring out that the information is confusing or wrong? How did it affect you getting the information you wanted? 
 

@@ -1,4 +1,4 @@
-# Screen 10
+# Step 10
 
 Your teacher may ask you to consider one of the following scenarios. If so, work with 1-2 other students to discuss and answer the questions. 
 

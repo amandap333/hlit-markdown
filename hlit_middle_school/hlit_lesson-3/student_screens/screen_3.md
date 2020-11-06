@@ -1,4 +1,4 @@
-# Screen 3
+# Step 3
 
 Marketing companies study how to influence people to buy their products or buy into their causes. You have just learned about some of them. These strategies can all be used for good reasons-and they can be used to mislead people. An ad may use more than one of these strategies. 
 
