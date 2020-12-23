@@ -6,4 +6,4 @@ In later steps (and in the rest of the lessons in this module), students learn s
 
 Although your students may feel that they already know how to evaluate internet information, studies have shown that middle school and high school students are often easily duped. In one study, students had difficulty with even basic skills such as determining whether a website was a credible source or an ad.
 
-*1Breakstone, J., McGrew, S., Smith, M., Ortega, T., & Wineburg, S. (2018). Teaching Students to Navigate the Online Landscape. Social Education, 82(4), pp. 219–221, https://www.socialstudies.org/publications/socialeducation/september2018/teaching-students-to-navigate-online-landscape*
+1. Breakstone, J., McGrew, S., Smith, M., Ortega, T., & Wineburg, S. (2018). Teaching Students to Navigate the Online Landscape. Social Education, 82(4), pp. 219–221, [https://www.socialstudies.org/publications/socialeducation/september2018/teaching-students-to-navigate-online-landscape](https://www.socialstudies.org/publications/socialeducation/september2018/teaching-students-to-navigate-online-landscape)
