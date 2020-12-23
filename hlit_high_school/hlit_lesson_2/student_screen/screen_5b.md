@@ -5,6 +5,7 @@
 When you click the link to the reading, you will see information on the National Institutes of Health (NIH) website. The NIH is the nation’s medical research agency.
 
 You should focus on the following sections:
+
 - What are clinical trials and why do people participate?
 - What are clinical trials and why would I want to take part?
 - How does the research process work?

@@ -18,4 +18,4 @@ You should focus on the following sections:
 - How is my safety protected?
 - What happens after a clinical trial is completed?
 
-Click on the following [link](https://www.nih.gov/health-information/nih-clinical-research-trials-you/basics ) to learn about what clinical studies are and why they are done. 
+Click on the following [link](https://www.nih.gov/health-information/nih-clinical-research-trials-you/basics ) to learn about what clinical studies are and why they are done.

@@ -5,4 +5,3 @@ Have students get their rubrics out. In this step, they will add criteria to the
 If students are having difficulty writing criteria, hold a class discussion to share and help prompt ideas. A couple of statements that would be relevant examples include the following:
 - The website or advertisement does not rely on questionable persuasion methods.
 - The information presented relates directly to the claims made.
-
